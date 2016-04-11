@@ -1,0 +1,5 @@
+Morteza Hamzi
+0902R69987
+
+run the MainPage.php in wamp server
+localhost/MainPage.php
